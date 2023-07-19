@@ -15,4 +15,4 @@ Terima Kasih Semoga Bermanfaat :)
 Best Regards,
 
 Muhammad Ari Saputra,
-Institut Teknologi dan Bisnis PalComTech
+Institut Teknologi dan Bisnis PalComTech Palembang.
