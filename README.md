@@ -12,6 +12,7 @@ Disini terdapat beberapa project yang bisa membantu kalian untuk memahami pengol
 
 Terima Kasih Semoga Bermanfaat :)
 
-- Best Regards -
+Best Regards,
+
 Muhammad Ari Saputra
 Institut Teknologi dan Bisnis PalComTech
