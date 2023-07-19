@@ -14,5 +14,5 @@ Terima Kasih Semoga Bermanfaat :)
 
 Best Regards,
 
-Muhammad Ari Saputra
+Muhammad Ari Saputra,
 Institut Teknologi dan Bisnis PalComTech
