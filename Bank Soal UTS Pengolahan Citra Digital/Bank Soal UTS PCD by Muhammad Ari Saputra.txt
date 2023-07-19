@@ -1,0 +1,119 @@
+Nama : Muhammad Ari Saputra
+NPM : 011200042
+
+Soal Pilihan Ganda (single/jomblo choice)
+
+1. Soal : Operasi titik dikenal juga dengan nama operasi ?
+a. Nonlinier
+b. Linier
+c. Pointwise
+d. Threshold
+e. Pixel
+
+Jawaban : c. Pointwise
+
+2. Soal : Operasi yang digunakan untuk memperjelas tepi atau batas antara objek pada gambar adalah ?
+a. Transformasi Fourier
+b. Filter median
+c. Konvolusi
+d. Operasi aritmatika
+e. Transformasi logaritmik
+
+Jawaban : c. Konvolusi
+
+3. Soal : Salah satu fungsi dari operasi penggandaan citra adalah ?
+a. Meningkatkan kecerahan gambar
+b. Mengurangi kebisingan pada gambar
+c. Mengurangi kontras pada gambar
+d. Meningkatkan ketajaman gambar
+e. Melakukan segmentasi objek pada gambar
+
+Jawaban : a. Meningkatkan kecerahan gambar
+
+4. Soal : Histogram citra adalah representasi grafis distribusi intensitas piksel pada citra. Histogram digunakan untuk ?
+a. Memperbaiki resolusi citra
+b. Memperbaiki kontras citra
+c. Mengurangi kebisingan pada citra
+d. Melakukan segmentasi citra
+e. Mengubah skala warna pada citra
+
+Jawaban : b. Memperbaiki kontras citra
+
+5. Soal : Konvolusi merupakan operasi pengolahan citra yang melibatkan ?
+a. Pemangkatan citra
+b. Perkalian citra
+c. Penjumlahan citra
+d. Pemfilteran citra
+e. Transformasi citra
+
+Jawaban : d. Pemfilteran citra
+
+Soal Pilihan Ganda (playboy/selingkuh/istri 4/multiple choice)
+
+6. Soal : Operasi dasar pada pengolahan citra meliputi:
+a. Peningkatan resolusi
+b. Segmentasi
+c. Kompresi
+d. Transformasi Fourier
+e. Histogramisasi
+
+Jawaban : (a,b,c,e)
+
+7. Soal : Metode-metode berikut ini merupakan operasi dasar pada pengolahan citra:
+a. Peningkatan kecerahan
+b. Peningkatan kontras
+c. Filtering
+d. Rotasi
+e. Pengubahan resolusi
+
+Jawaban : (a,b,c,d,e)
+
+8. Soal : Histogram citra digunakan untuk:
+A. Menganalisis distribusi intensitas piksel dalam citra
+B. Mengubah resolusi citra
+C. Mengurangi derau pada citra
+D. Meningkatkan kecerahan citra
+E. Menentukan jumlah piksel dalam citra
+
+Jawaban : (a,c)
+
+9. Soal :Pada teknik konvolusi, kernel digunakan untuk:
+a. Mengubah ukuran citra
+b. Menghilangkan derau pada citra
+c. Memperbaiki kontras citra
+d. Melakukan segmentasi citra
+e. Menentukan operasi yang akan dilakukan pada piksel
+
+Jawaban : (b,c,d)
+
+10. Soal : Metode-metode berikut ini digunakan untuk perbaikan kualitas citra:
+a. Histogram equalization
+b. Filter median
+c. Konvolusi
+d. Thresholding
+e. Rotasi
+
+Jawaban : (a,b,d)
+
+
+11. Soal : Histogram equalization adalah teknik yang digunakan untuk memperbaiki kecerahan dan kontras citra.
+
+Jawaban :Benar
+
+12. Soal : Konvolusi adalah operasi pengolahan citra yang melibatkan perkalian elemen-elemen matriks dengan elemen-elemen yang sesuai dari citra.
+
+Jawaban :Salah
+
+13. Soal : Perbaikan kualitas citra adalah proses untuk meningkatkan aspek-aspek tertentu dari citra agar lebih baik.
+
+Jawaban :Benar
+
+14. Soal : Konvolusi digunakan dalam pengolahan citra untuk memperbaiki resolusi gambar.
+
+Jawaban :Salah
+
+15. Soal : Operasi aritmatika pada citra mencakup penjumlahan, pengurangan, perkalian, dan pembagian citra.
+
+Jawaban :Benar
+
+
